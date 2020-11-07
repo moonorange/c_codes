@@ -1,0 +1,12 @@
+[submodule "c3"]
+	path = c3
+	url = git@vogsphere-v2.42tokyo.jp:vogsphere/intra-uuid-39394e2c-72ad-49c7-8206-75b5d5a3ace8-3323273
+[submodule "c2"]
+	path = c2
+	url = git@vogsphere-v2.42tokyo.jp:vogsphere/intra-uuid-3308341e-e102-4150-ab73-1e15f3b7bd13-3313068
+[submodule "c4"]
+	path = c4
+	url = git@vogsphere-v2.42tokyo.jp:vogsphere/intra-uuid-0b59c9fa-b509-4d3a-ac24-b7a5284a0d49-3317055
+[submodule "c5"]
+	path = c5
+	url = git@vogsphere-v2.42tokyo.jp:vogsphere/intra-uuid-6ab83843-9d33-4c75-8545-01fe63ea145b-3318861
